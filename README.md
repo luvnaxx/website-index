@@ -12,7 +12,7 @@
     <div class="container" style="padding-top: 30px">
         <p style="margin-top: 20px;">好记性不如烂笔头</p>
         <p style="margin-top: 20px;">The palest ink is better than the best memory.</p>
-        <p style="margin-top: 20px;"><a class="btn btn-primary btn-lg" href="https://github.com/luvnaxx/" role="button"> g个人仓库 &raquo;</a></p>
+        <p style="margin-top: 20px;"><a class="btn btn-primary btn-lg" href="https://github.com/luvnaxx/" role="button"> 个人仓库 &raquo;</a></p>
     </div>
 </div>
 
@@ -22,19 +22,20 @@
         <div class="col-md-4">
             <h2>Docsify</h2>
             <p>Docsify on GitHub Pages</p>
-            <p><a class="btn btn-default" href="https://doc.luvnaxx.com" role="button">查看详情 &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://doc.luvnaxx.com/" role="button">查看详情 &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Gitbook</h2>
             <p>Gitbook on Coding Pages</p>
-            <p><a class="btn btn-default" href="https://book.luvnaxx.com" role="button">查看详情 &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://book.luvnaxx.com/" role="button">查看详情 &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Hugo</h2>
             <p>Hugo Blog on Gitee Pages</p>
-            <p><a class="btn btn-default" href="https://luvnaxx.gitee.io" role="button">查看详情 &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://luvnaxx.gitee.io/" role="button">查看详情 &raquo;</a></p>
         </div>
     </div>
+
 
     <hr>
     
